@@ -1,5 +1,6 @@
 # Image-Editor
 Created Image Editor Using an HTML , CSS , VANILLA JAVASCRIPT 
+<p>Deployed Link : https://daneshwarkumar.github.io/Image-Editor </p>
 ![Screenshot (7)](https://github.com/DaneshwarKumar/Image-Editor/assets/120198268/3104a298-a0c4-47fa-b26f-36d1739e4fd3)
 
 <p> user Can simply upload an image and can edit them  </p>
